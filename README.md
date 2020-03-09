@@ -15,6 +15,3 @@ Current
 Specific
 e.g. Node10
 `npx node@10 --version` or `npx node@10 -v`
-
-## Environment tips
-
